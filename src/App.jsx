@@ -1,8 +1,8 @@
 import './App.css';
 import lake from "./image/lake.JPG";
-import GallaryFooter from './components/GallaryFooter';
-import Header from './components/Header';
-import Body from './components/Body'
+import GallaryFooter from './Components/GallaryFooter.jsx';
+import Header from './Components/Header.jsx';
+import Body from './Components/Body.jsx'
 
 const imageData = [
   {
